@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    font-family: sans-serif;
+    background-color: white;
+  }
+  .header{
+    background-image: url("/assets/pexels-vishnu-r-nair-1105666.jpg");
+    position: 0 0;
+    background-repeat: no-repeat;
+    size:cover;
+    height: 650px;
+}

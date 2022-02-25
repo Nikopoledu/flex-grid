@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+
+}
+.logo{
+    width: 50%;
+
+}
+.nav-bar{
+    width: 50%;
+    
+}
+.nav-bar ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    color: grey; 
+    margin-top: 20px;
+    text-decoration: none;
+} 
+.background{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url("/assets/background.jpg");
+}
+.background *{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background ul{
+    display: flex;
+    align-items: flex-start;
+}
+.section2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
